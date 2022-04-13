@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mohamed Youssry | ITCS - NU
+title: Mohamed Youssry | Juniors Camp
 email: mohamedyoussryahmed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a documentation page created by TA/Mohamed Youssry from Nile University faculty of Information Technology and Computer Science. The documentation will be for the taught courses as a teaching assistant, master courses for the software engineering master's degree at Nile Univesity, and a roadmap for my research journey in the field of software engineering for machine learning.
+  This is the official GitHub pages for Mohamed Youssry; Teaching Assistant at Computer Science and Artificial Intellegince at Nile University, Software Engineering Master Student at Nile University faculty of computer science, and a Software Engineer at MedSoft.
+
+I will document my courses, project, and my participations in the Academic field on this GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: muhamedyoussry
