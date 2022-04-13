@@ -75,6 +75,8 @@ title: Machine Learning | Python
 
 Supervised Learning develop predictive model based on both input and output data.
 
+Unsupervised learning group and interpret data based on input data only.
+
 
 ### Linear Regression
 
