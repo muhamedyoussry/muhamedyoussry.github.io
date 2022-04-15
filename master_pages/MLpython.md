@@ -84,6 +84,7 @@ Unsupervised learning group and interpret data based on input data only.
   - Slope: `(y2-y1)/(x2-x1)`, slope can be zero, +ve, or -ve.
   - Linear Regression: `Y'= aX + b`
     - `a` is the slope, and `b` is the y-intercept when X = 0
+  - Hypothesis function: `h(x) = theta_0 + theta_1*X`
 - **Important Definitions:**
   - X = inputs
   - Y = output
@@ -91,4 +92,6 @@ Unsupervised learning group and interpret data based on input data only.
   - n = numbe of features
   - h(x) = predectied values
   - cost J = error value
-  - Theta = X coefficients
+  - Theta = X parameters
+
+![Linear Regression Rules](../assets/MLPython/LinearRegressionRules.png)
