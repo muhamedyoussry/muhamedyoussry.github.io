@@ -16,7 +16,8 @@ title: Statistics and Probability | R
 - [Statistics Introduction](#statistics-introduction)
 - [Data Descriptors (Descriptive Statistics)](#data-descriptors-descriptive-statistics)
 - [Population and Samples](#population-and-samples)
-- [Probability Theory](#probability-theory)
+- [Probability Theory |](#probability-theory-)
+- [Probability Theory ||](#probability-theory--1)
 
 
 ## Steps of Statistical Methods
@@ -70,7 +71,7 @@ title: Statistics and Probability | R
 ** Some definitions are taken from: [W3Schools](https://www.w3schools.com/statistics/statistics_parameters_and_statistics.php)
 
 
-## Probability Theory
+## Probability Theory |
 
 - *Random experiment* can result in different outcomes every time it is repeated, even though it is repeated in the same manner.
 - *Sample Space* the set of all possible outcomes of that random experiment.
@@ -90,4 +91,8 @@ title: Statistics and Probability | R
   -  P(E`) = 1 - P(E)
   -  `P(Phi) = 0`
 -  Cumulative probability. example: `P(X<=2)  = P(X=1) + P(X=2)`
--  
+-  *Probability mass functions (pmf)* are used to describe **discrete** probability distributions. While *probability density functions (pdf)* are used to describe **continuous** probability distributions.
+
+
+## Probability Theory ||
+- 
