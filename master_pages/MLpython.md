@@ -80,4 +80,15 @@ Unsupervised learning group and interpret data based on input data only.
 
 ### Linear Regression
 
-
+- **Important Equations:**
+  - Slope: `(y2-y1)/(x2-x1)`, slope can be zero, +ve, or -ve.
+  - Linear Regression: `Y'= aX + b`
+    - `a` is the slope, and `b` is the y-intercept when X = 0
+- **Important Definitions:**
+  - X = inputs
+  - Y = output
+  - m = number of rows
+  - n = numbe of features
+  - h(x) = predectied values
+  - cost J = error value
+  - Theta = X coefficients

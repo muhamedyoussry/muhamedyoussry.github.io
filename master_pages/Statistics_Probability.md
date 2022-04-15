@@ -104,4 +104,4 @@ title: Statistics and Probability | R
   - it the probability of event A given that event B occurs.
     - `P(A|B) = P(A intersection B) / P(B)`
     - Conditional Probability reduces the sample space from S to B. *it make sense because we divide on P(B) in the conditional probability, but in the marginal probability we was dividing by P(S)*
-    - If B is known to have occured, then A can occur only if (A intersection B) occurs. *it make sense because if the intersection doesn't occurs, it means it will be with zero so there is no conditional probability*
+    - If B is known to have occured, then A can occur only if (A intersection B) occurs. *it make sense because if the intersection doesn't occurs, it means it will be with zero so there is no conditional probability*.
