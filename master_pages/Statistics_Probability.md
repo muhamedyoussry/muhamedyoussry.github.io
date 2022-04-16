@@ -111,7 +111,6 @@ title: Statistics and Probability | R
 - **Independence**
   - two events A and B are independent when any of the following is true:
     - P(A|B) = P(A)
-    - P(B|A) = P(B)
     - P(A intersectino B) = P(A) * P(B)
 - **Bayes' Theorem**
   - `P(A|B) = ( P(B|A) * P(A) ) / P(B)`

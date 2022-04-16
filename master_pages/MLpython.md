@@ -85,6 +85,14 @@ Unsupervised learning group and interpret data based on input data only.
   - Linear Regression: `Y'= aX + b`
     - `a` is the slope, and `b` is the y-intercept when X = 0
   - Hypothesis function: `h(x) = theta_0 + theta_1*X`
+
+![Linear Regression Rules](../assets/MLPython/LinearRegressionRules.png)
+
+![Gradient Descent](../assets/MLPython/GradientDescent.png)
+
+![Gradient Descent Detailed](../assets/MLPython/GradientDescentDetailed.png)
+
+
 - **Important Definitions:**
   - X = inputs
   - Y = output
@@ -94,4 +102,6 @@ Unsupervised learning group and interpret data based on input data only.
   - cost J = error value
   - Theta = X parameters
 
-![Linear Regression Rules](../assets/MLPython/LinearRegressionRules.png)
+
+- Big Learning Rate vs. Small Learning Rate (Alpha)
+  - choosing the learning rate wether being small or large will compensate between accuracy and speed of the algorithm.
