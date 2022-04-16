@@ -84,6 +84,7 @@ title: Statistics and Probability | R
   - *Joint Probability*: P(A,B) the probability that events A and B happen together at the same time.
 - There are many types of how to calculate the probability:
   - Frequentist Probability which is the `numbre of times event A occurs / n times`
+  - Degree of Belief
 - Probability Axioms:
   -  `0 <= P(E) <= 1`
   -  `P(S) = 1`  probability of the sample sapce is equal to 1
@@ -105,3 +106,12 @@ title: Statistics and Probability | R
     - `P(A|B) = P(A intersection B) / P(B)`
     - Conditional Probability reduces the sample space from S to B. *it make sense because we divide on P(B) in the conditional probability, but in the marginal probability we was dividing by P(S)*
     - If B is known to have occured, then A can occur only if (A intersection B) occurs. *it make sense because if the intersection doesn't occurs, it means it will be with zero so there is no conditional probability*.
+- **Multiplication Rule** - Total Probability Rule
+  - `P(A intersection B) = P(B intersection A) = P(A|B)*P(B) = P(B|A)*P(A)`
+- **Independence**
+  - two events A and B are independent when any of the following is true:
+    - P(A|B) = P(A)
+    - P(B|A) = P(B)
+    - P(A intersectino B) = P(A) * P(B)
+- **Bayes' Theorem**
+  - `P(A|B) = ( P(B|A) * P(A) ) / P(B)`
