@@ -105,3 +105,13 @@ Unsupervised learning group and interpret data based on input data only.
 
 - Big Learning Rate vs. Small Learning Rate (Alpha)
   - choosing the learning rate wether being small or large will compensate between accuracy and speed of the algorithm.
+
+- Linear Regression for Multiple Features (With Multivariables)
+  - Multivariant Linear Regression equation
+
+  ![multivariant Linear Regression](../assets/MLPython/multivariantLinearRegression.png)
+
+
+  - Multivariant Gradient For linear regression equation
+
+    ![multivariant Gradient Descent](../assets/MLPython/multivariantGradientDescent.png)
