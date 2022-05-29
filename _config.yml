@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mohamed Youssry | Juniors Camp
+title: Mohamed Youssry | المعسكر
 email: mohamedyoussryahmed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official GitHub pages for Mohamed Youssry; Teaching Assistant at Computer Science and Artificial Intellegince at Nile University, Software Engineering Master Student at Nile University faculty of computer science, and a Software Engineer at MedSoft. I will document my courses, project, and my participations in the Academic field on this GitHub Pages.

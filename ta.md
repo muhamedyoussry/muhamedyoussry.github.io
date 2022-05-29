@@ -22,4 +22,8 @@ title: Teaching Assistant
 
 ## Online YouTube Courses Taught
 
-- [C++ Programming for Beginners - CPP101](./ta_pages/CPP101/CPP101.md)
+- [C++ Programming for Beginners - CPP101] - Coming Soon
+
+
+## Motivation and Guidance Videos
+- [أساسيات البناء](https://www.youtube.com/watch?v=pNfjXZTynyI&t=1268s)

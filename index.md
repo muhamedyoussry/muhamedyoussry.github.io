@@ -9,7 +9,7 @@ title: About Me
 <p align="center"><img src="./roundedPhoto.png" alt="avatar" width="300"></p>
 
 ## Mohamed Youssry Ahmed
-Teaching Assistant in Computer Sciences and Artificial Intelligence at Nile University | Software Engineering Master Student at Nile University | C++ Software Engineer at MedSoft | ICT Content Developer at Nagwa
+Teaching Assistant in Computer Sciences and Artificial Intelligence at Nile University | Software Engineering Master Student at Nile University | C++ Software Engineer at MedSoft | Software Engineer Intern at المعسكر | Co-Founder at المعسكر | ICT Content Developer at Nagwa
 
 <!-- ---
 ### **Professional Summary**
