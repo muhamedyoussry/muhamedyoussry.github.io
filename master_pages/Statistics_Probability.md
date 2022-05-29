@@ -18,6 +18,7 @@ title: Statistics and Probability | R
 - [Population and Samples](#population-and-samples)
 - [Probability Theory |](#probability-theory-)
 - [Probability Theory ||](#probability-theory--1)
+- [Probability Theory |||](#probability-theory--2)
 
 
 ## Steps of Statistical Methods
@@ -114,3 +115,13 @@ title: Statistics and Probability | R
     - P(A intersectino B) = P(A) * P(B)
 - **Bayes' Theorem**
   - `P(A|B) = ( P(B|A) * P(A) ) / P(B)`
+
+
+
+## Probability Theory |||
+
+- A variable whose value is uncertain and dependent on chance; is called a random variable (RV). the likelihood of the occurence of the RV are reperesented by probability function
+  - Discrete RV
+    - probability mass function (PMF) represent the likelihood of the discrete RV occurnece
+  - Continuous RV
+    - probability density function (PMF) represent the likelihood of the continuous RV occurnece 
